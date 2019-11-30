@@ -23,5 +23,9 @@ public class Koza implements Animal
         public String size;
         public int weight;
     }
+
+    public class Kon implements Animal{
+        public String size;
+        public int weight;
 }
 >>>>>>> 5be8a5ced63507e455f912001426c099ee13f4f8
