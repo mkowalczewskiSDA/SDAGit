@@ -1,6 +1,6 @@
 package model;
 
-public class Zwierze implements Animal {
+public class Kot implements Animal {
 
 
     @Override
