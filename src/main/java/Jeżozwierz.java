@@ -1,27 +1,11 @@
 import model.Animal;
 
-public class Zwierze implements Animal {
+public class Jeżozwierz implements Animal {
 
-    Animal animal = new Animal() {
-        @Override
-        public String getSpecies() {
-            return null;
-        }
-
-        @Override
-        public boolean isPredator() {
-            return false;
-        }
-
-        @Override
-        public boolean canFly() {
-            return false;
-        }
-    };
 
     @Override
     public String getSpecies() {
-        return null;
+        return "Jezozwierz";
     }
 
     @Override
@@ -31,6 +15,6 @@ public class Zwierze implements Animal {
 
     @Override
     public boolean canFly() {
-        return false;
+        return true;
     }
 }
