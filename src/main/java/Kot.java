@@ -4,7 +4,7 @@ public class Kot implements Animal {
 
     @Override
     public String getSpecies() {
-        return null;
+        return "kot";
     }
 
     @Override
