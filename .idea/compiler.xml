@@ -9,8 +9,11 @@
         <module name="git_zadanie1" />
       </profile>
     </annotationProcessing>
+<<<<<<< HEAD
     <bytecodeTargetLevel>
       <module name="git_zadanie1" target="8" />
     </bytecodeTargetLevel>
+=======
+>>>>>>> 71b91d1464649d39aa219e1eca0695c8a1d786e7
   </component>
 </project>
