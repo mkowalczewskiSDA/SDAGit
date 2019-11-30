@@ -1,4 +1,5 @@
 import model.Animal;
+import model.KlasaPierwszaBe;
 
 public class Main {
     public static void main(String[] args) {
@@ -7,5 +8,6 @@ public class Main {
         String predator = animal.isPredator() ? "drapieżnik":"roślinożerca";
         String fly = animal.canFly() ? "potrafi":"nie potrafi";
         System.out.println("Nasze zwierze to: " +animal.getSpecies()+". Jest to " + predator +" i " +fly+" latać");
+
     }
 }
