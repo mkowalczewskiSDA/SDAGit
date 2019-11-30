@@ -9,6 +9,11 @@ public interface Animal {
 }
 public class Pies implements Animal{
     public String size;
-    public int weight;  
+    public int weight;
 
+}
+public class Koza implements Animal
+{
+    public String size;
+    public int weight;
 }
