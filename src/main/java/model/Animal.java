@@ -7,3 +7,8 @@ public interface Animal {
 
 
 }
+public class Pies implements Animal{
+    public String size;
+    public int weight;  
+
+}
