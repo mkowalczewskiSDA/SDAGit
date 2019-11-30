@@ -1,3 +1,5 @@
+package model;
+
 import model.Animal;
 
 public class Jeżozwierz implements Animal {
