@@ -1,6 +1,6 @@
 package model;
 
-public class KlasaPierwszaBe implements Animal {
+public class imponderabilia implements Animal {
 
     @Override
     public String getSpecies() {

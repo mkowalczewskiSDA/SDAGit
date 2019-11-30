@@ -1,5 +1,4 @@
 import model.Animal;
-import model.KlasaPierwszaBe;
 
 public class Main {
     public static void main(String[] args) {
