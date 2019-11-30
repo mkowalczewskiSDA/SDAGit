@@ -4,7 +4,7 @@ public class KlasaPierwszaBe implements Animal {
 
     @Override
     public String getSpecies() {
-        return "Jeżozwierz";
+        return "Jeżozwierzak";
     }
 
     @Override
