@@ -2,7 +2,7 @@ package model;
 
 import model.Animal;
 
-public class KlasaPawla implements Animal {
+public class Gad implements Animal {
     @Override
     public String getSpecies() {
         return "Gad";
