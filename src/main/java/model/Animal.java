@@ -5,3 +5,5 @@ public interface Animal {
     public boolean isPredator();
     public boolean canFly();
 }
+
+
